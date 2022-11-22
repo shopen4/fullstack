@@ -1,0 +1,13 @@
+Section 1
+---------
+The purpose of this test is to check the UI capabilities ( HTML and CSS)
+
+The test is to create HTML page like screen1.png
+
+* No framework are allowed (no bootstrap) - you should use pure html and css
+* The 2 graphs of "orders" and "Transactions WorldWide" should be static images that scraped from screen1.png
+* The Bars of "Total Orders in period", "Orders in last month", "Monthly income from orders" should be implemented by you.
+
+Please remember that the execution time is being measured.
+
+Good Luck!
